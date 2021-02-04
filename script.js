@@ -1,1 +1,1 @@
-$("h1").addClass("blue");
+$("h1").addClass("red");
